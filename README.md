@@ -4,8 +4,8 @@
 
 - [x] [Factory Method](./Creational/FactoryMethod/)
 - [x] [Abstract Factory](./Creational/AbstructFactory/)
-- [ ] Singleton
-- [ ] Builder
+- [x] [Singleton](./Creational/Singleton/)
+- [x] [Builder](./Creational/Builder/)
 - [ ] Prototype
 
 ## Structural Design Patterns
