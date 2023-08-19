@@ -6,11 +6,11 @@
 - [x] [Abstract Factory](./Creational/AbstructFactory/)
 - [x] [Singleton](./Creational/Singleton/)
 - [x] [Builder](./Creational/Builder/)
-- [ ] Prototype
+- [x] [Prototype](./Creational/Prototype/)
 
 ## Structural Design Patterns
 
-- [ ] Adapter
+- [x] [Adapter](./Structural/Adapter/)
 - [ ] Bridge
 - [ ] Composite
 - [ ] Decorator
